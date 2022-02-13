@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Kalanamith 
-- 🔭 I’m currently working on Substrate, DEFi
+- 🔭 I’m currently working on Substrate, DEFi, Digital Forensics
 - 🌱 Provides Substrate, Polkadot Consultancy
 - 🌱 Proficient in Digital Forensics in Python, Linux and Rust
 - 👯 I’m Open for Co Founder Opportunities 
