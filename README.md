@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Kalanamith 
-- 🔭 Substrate, DEFi, Digital Forensics, Python
+- 🔭 Rust, Substrate, DEFi, Digital Forensics, Python
 - 🌱 Protocol Engineering
 - 🌱 WhiteHat, Kali Linux
 
