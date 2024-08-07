@@ -1,4 +1,4 @@
 ### Hi there 👋 Im Kalanamith 
-- 🔭 Rustx
+- 🔭 Rust
 
 ![](https://komarev.com/ghpvc/?username=kalanamith)
